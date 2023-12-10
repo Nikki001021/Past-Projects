@@ -1,0 +1,372 @@
+<div style="display: flex; align-items: center;">
+    <img src="https://static.vecteezy.com/system/resources/previews/008/377/416/non_2x/real-estate-search-illustration-concept-people-looking-home-on-market-buy-or-rent-house-online-illustration-in-a-flat-style-vector.jpg"
+        alt="Image" style="height: 10em; margin-right: 5px; margin-bottom: -10px; margin-top:5px; margin-left: -10px">
+    <div>
+        <h3 style="margin-top: 25px; margin-bottom: -1px"><strong>Welcome!</strong></h3>
+        <br>
+        <img src="https://gd-hbimg.huaban.com/826e2ddd34971b05c3b9df57ae481e277a061b721310-o6FlAZ_fw1200webp"
+            alt="Image" style="height: 1.5em; margin-right: 5px; margin-bottom: -25px; display: flex; align-items: center">
+        <h5 style="color: #70879f; margin-top: -15px; margin-left: 30px"><strong>Start your search by filling out the
+                form</strong></h5>
+    </div>
+</div>
+
+<form id="searchForm">
+    <div class="section">
+        <div class="row">
+            <div class="form-group">
+                <div style="display: flex; align-items: center; ">
+                    <img src="https://gd-hbimg.huaban.com/8c0a36d21919382bdce1265bf19d598be6dff074e002-ahhhSK_fw1200webp"
+                        alt="Image" style="height: 1.2em; margin-right: 8px;">
+                    <label for="location">Enter Location (required):</label>
+                </div>
+                <input type="text" class="form-control" id="autocomplete" placeholder="Enter Location:">
+            </div>
+        </div>
+        <div style="display: flex; align-items: center; ">
+            <img src="https://gd-hbimg.huaban.com/17ec21d8512aca98661029ab56f41fdefec02814158f-Hz6Dty_fw1200webp"
+                alt="Image" style="height: 1.5em; margin-right: 5px;">
+            <label for="min-rent">Minimum Rent (required)</label>
+        </div>
+        <input type="number" id="min-rent" name="minRent" min="0" placeholder="Enter minimum rent:">
+
+        <div style="display: flex; align-items: center;">
+            <img src="https://gd-hbimg.huaban.com/17ec21d8512aca98661029ab56f41fdefec02814158f-Hz6Dty_fw1200webp"
+                alt="Image" style="height: 1.5em; margin-right: 5px;">
+            <label for="min-rent">Maximum Rent (required)</label>
+        </div>
+        <input type="number" id="max-rent" name="maxRent" min="0" placeholder="Enter maximum rent:">
+        <br><br>
+        <div class="row">
+            <div class="input-field col s12">
+                <div style="display: flex; align-items: center; ">
+                    <img src="https://gd-hbimg.huaban.com/e97bffc640fa433cc351e47d0df8480877a9d308150f-42iKZU_fw1200webp"
+                        alt="Image" style="height: 1.5em; margin-right: 5px;">
+                    <label for="minbedrooms">Minimum Bedrooms (required)</label>
+                </div>
+                <select name="minbedrooms" id="minbedrooms">
+                    <option value="0">0 bedroom</option>
+                    <option value="1">1 bedroom</option>
+                    <option value="2">2 bedrooms</option>
+                    <option value="3">3 bedrooms</option>
+                    <option value="4">4 bedrooms</option>
+                    <option value="5">5 bedrooms</option>
+                    <option value="6">6 bedrooms</option>
+                </select>
+            </div>
+            <div class="input-field col s12">
+                <div style="display: flex; align-items: center;">
+                    <img src="https://gd-hbimg.huaban.com/e97bffc640fa433cc351e47d0df8480877a9d308150f-42iKZU_fw1200webp"
+                        alt="Image" style="height: 1.5em; margin-right: 5px;">
+                    <label for="maxbedrooms">Maximum Bedrooms (required)</label>
+                </div>
+                <select name="maxbedrooms" id="maxbedrooms">
+                    <option value="0">0 bedroom</option>
+                    <option value="1">1 bedroom</option>
+                    <option value="2">2 bedrooms</option>
+                    <option value="3">3 bedrooms</option>
+                    <option value="4">4 bedrooms</option>
+                    <option value="5">5 bedrooms</option>
+                    <option value="6">6 bedrooms</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <div class="input-field col s12">
+                <div style="display: flex; align-items: center; ">
+                    <img src="https://gd-hbimg.huaban.com/d4d7aeb0dd352870388543ce86ed1f670ec34fedeb9-P4r4xT_fw1200webp"
+                        alt="Image" style="height: 2em; margin-right: 3px;">
+                    <label for="minbathrooms">Minimum Bathrooms (required)</label>
+                </div>
+                <select name="minbathrooms" id="minbathrooms">
+                    <option value="0">0 bathroom</option>
+                    <option value="1">1 bathroom</option>
+                    <option value="2">2 bathrooms</option>
+                    <option value="3">3 bathrooms</option>
+                    <option value="4">4 bathrooms</option>
+                    <option value="5">5 bathrooms</option>
+                    <option value="6">6 bathrooms</option>
+                </select>
+            </div>
+            <div class="input-field col s12">
+                <div style="display: flex; align-items: center; ">
+                    <img src="https://gd-hbimg.huaban.com/d4d7aeb0dd352870388543ce86ed1f670ec34fedeb9-P4r4xT_fw1200webp"
+                        alt="Image" style="height: 2em; margin-right: 3px;">
+                    <label for="maxbathrooms">Maximum Bathrooms (required)</label>
+                </div>
+                <select name="maxbathrooms" id="maxbathrooms">
+                    <option value="0">0 bathroom</option>
+                    <option value="1">1 bathroom</option>
+                    <option value="2">2 bathrooms</option>
+                    <option value="3">3 bathrooms</option>
+                    <option value="4">4 bathrooms</option>
+                    <option value="5">5 bathrooms</option>
+                    <option value="6">6 bathrooms</option>
+                </select>
+            </div>
+        </div>
+        <div class="row">
+            <input type="submit" value="Submit" class="btn" style="background-color: #556c83;">
+        </div>
+        <br>
+        <div class="sort-buttons">
+            <h5 style="margin-bottom: -3px"><strong>Results Sorted By:</strong></h5>
+            <button class="sort-button" data-sort="relevance"
+                style="background-color: #a7b49c; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">Relevance</button>
+            <button class="sort-button" data-sort="price_low_to_high"
+                style="background-color: #a7b49c; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">Price
+                Low to High</button>
+            <button class="sort-button" data-sort="price_high_to_low"
+                style="background-color: #a7b49c; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">Price
+                High to Low</button>
+            <button class="sort-button" data-sort="newest"
+                style="background-color: #a7b49c; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">Newest</button>
+        </div>
+        <table class="table table-bordered table-striped" id="result"></table>
+
+    </div>
+</form>
+
+<script>
+    function initMap() {
+        const input = document.getElementById('autocomplete');
+
+        const autocomplete = new google.maps.places.Autocomplete(input, {
+            types: ['geocode']
+        });
+
+        autocomplete.addListener('place_changed', () => {
+            const place = autocomplete.getPlace();
+            console.log(place);
+            RentEstimator()
+        });
+    }
+
+    document.getElementById('min-Rent').onchange = RentEstimator
+    document.getElementById('max-Rent').onchange = RentEstimator
+    document.getElementById('minbedrooms').onchange = RentEstimator
+    document.getElementById('maxbedrooms').onchange = RentEstimator
+    document.getElementById('minbathrooms').onchange = RentEstimator
+    document.getElementById('maxbathrooms').onchange = RentEstimator
+    document.getElementById('sort-button').onchange = RentEstimator
+
+    function constructAPIURL(formData, sort) {
+        const location = document.getElementById('autocomplete').value
+        const indexOfUSA = location.indexOf(', USA');
+
+        const parsedLocation = indexOfUSA !== -1 ? location.substring(0, indexOfUSA) : location;
+        const minRent = parseInt(formData.get('minRent'))
+        const maxRent = parseInt(formData.get('maxRent'))
+        const minbedrooms = parseInt(formData.get('minbedrooms'))
+        const maxbedrooms = parseInt(formData.get('maxbedrooms'))
+        const minbathrooms = parseInt(formData.get('minbathrooms'))
+        const maxbathrooms = parseInt(formData.get('maxbathrooms'))
+        const sorting = String(sort)
+        console.log(sorting)
+
+        if (
+            !location ||
+            !minRent ||
+            !maxRent ||
+            (minbedrooms === null && minbedrooms !== 0) ||
+            (maxbedrooms === null && maxbedrooms !== 0) ||
+            (minbathrooms === null && minbathrooms !== 0) ||
+            (maxbathrooms === null && maxbathrooms !== 0)
+        ) {
+            alert('Please fill out all required fields!')
+        } else if (maxRent < minRent) {
+            alert('Maximum Rent cannot be smaller than Minimum Rent')
+        } else if (maxbedrooms < minbedrooms) {
+            alert('Maximum Bedrooms cannot be smaller than Minimum Bedrooms')
+        } else if (maxbathrooms < minbathrooms) {
+            alert('Maximum Bathrooms cannot be smaller than Minimum Bathrooms')
+        } else {
+            const baseUrl = 'https://us-real-estate-listings.p.rapidapi.com/for-rent'
+            const apiUrl = `${baseUrl}?location=${encodeURIComponent(parsedLocation)}&limit=50&beds_min=${minbedrooms}&beds_max=${maxbedrooms}&baths_min=${minbathrooms}&baths_max=${maxbathrooms}&price_min=${minRent}&price_max=${maxRent}&sort=${sorting}`
+            return apiUrl
+        }
+    }
+
+
+    function RentEstimator() {
+        const form = document.getElementById('searchForm')
+        const sortButtons = document.querySelectorAll('.sort-button')
+        let sortBy = 'relevance'
+
+        form.addEventListener('submit', async function (event) {
+            event.preventDefault();
+            const formData = new FormData(form)
+
+            try {
+                const url = constructAPIURL(formData, sortBy)
+                const options = {
+                    method: 'GET',
+                    headers: {
+                        'X-RapidAPI-Key': '141238de6bmsh022ac1fee159761p12cbe2jsne8b5c56112aa',
+                        'X-RapidAPI-Host': 'us-real-estate-listings.p.rapidapi.com'
+                    }
+                }
+                const response = await fetch(url, options)
+                const result = await response.json();
+                console.log(result)
+                if (result.totalResultCount === 0) {
+                    alert("No Result Found. Try to modify your entries.")
+                }
+                var table = document.getElementById("result")
+                while (table.rows.length > 0) {
+                    table.deleteRow(0)
+                }
+
+
+
+                result.listings.forEach(listing => {
+                    const addressLine = listing.location.address.line
+                    const listing_link = listing.href
+                    const sqft = listing.description.sqft
+                    const listing_date = listing.list_date
+                    const listing_price = listing.list_price
+                    const num_bed = listing.description.beds
+                    const num_bath = listing.description.baths
+                    const description = listing.description.text
+
+                    let tagsHTML = ''
+                    if (listing.tags && listing.tags.length > 0) {
+                        tagsHTML += '<div class="tag-container" style="display: flex; flex-wrap: wrap; gap: 5px;">'
+                        listing.tags.forEach((tag, index) => {
+                            const colors = ['#9ca9b6', '#939391', '#c5b8a5', '#9d91a7']
+                            const tagColor = colors[index % colors.length]
+                            tagsHTML += `<button class="tag-button" style="background-color: ${tagColor}; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">${tag}</button>`
+                        })
+                        tagsHTML += '</div>'
+                    }
+
+                    var row = table.insertRow()
+                    var cell1 = row.insertCell(0)
+                    cell1.innerHTML = `
+                        <div style="display: flex;">
+                            <div style="flex: 1;">
+                                <strong><span style="font-size: 18px"><a href="${listing_link}" target="_blank">${addressLine}</a></span></strong><br>
+                                <span style="color: #afb99e;"><strong>Square Feet:</strong></span> ${sqft}<br>
+                                <span style="color: #afb99e;"><strong>Listing Date:</strong></span> ${listing_date}<br>
+                                <span style="color: #afb99e;"><strong>Listing Price:</strong></span> $${listing_price}<br>
+                                <span style="color: #afb99e;"><strong>Number of Bedrooms:</strong></span> ${num_bed}<br>
+                                <span style="color: #afb99e;"><strong>Number of Bathrooms:</strong></span> ${num_bath}<br><br>
+                                ${description !== null ? description : 'No description available'}<br>
+                                ${tagsHTML}
+                            </div>
+                        </div>
+                    `
+                    cell1.style.fontSize = "15px"
+                    cell1.style.textAlign = "left"
+
+                    if (listing.primary_photo) {
+                        let photoUrl = listing.primary_photo.href
+                        let cell2 = row.insertCell(1)
+                        cell2.innerHTML = `
+                            <div style="flex-shrink":0; margin-left: 20px;">
+                                <img src="${photoUrl}" style="max-width: 500px; max-height: 250px;" alt="">
+                            </div>
+                        `
+                    } else {
+                        let photoUrl = "https://via.placeholder.com/150"
+                        let cell2 = row.insertCell(1)
+                        cell2.innerHTML = `<img width="150" height="150" src="${photoUrl}"/>`
+                    }
+                })
+
+                sortButtons.forEach(button => {
+                    button.addEventListener('click', async function () {
+                        sortBy = this.getAttribute('data-sort')
+                        const sortUrl = constructAPIURL(formData, sortBy)
+                        const sortOptions = {
+                            method: 'GET',
+                            headers: {
+                                'X-RapidAPI-Key': '141238de6bmsh022ac1fee159761p12cbe2jsne8b5c56112aa',
+                                'X-RapidAPI-Host': 'us-real-estate-listings.p.rapidapi.com'
+                            }
+                        }
+
+                        const response = await fetch(sortUrl, sortOptions)
+                        const result = await response.json();
+                        console.log(result)
+                        if (result.totalResultCount === 0) {
+                            alert("No Result Found. Try to modify your entries.")
+                        }
+
+                        var table = document.getElementById("Result")
+                        while (table.rows.length > 0) {
+                            table.deleteRow(0)
+                        }
+
+                        result.listings.forEach(listing => {
+                            const addressLine = listing.location.address.line
+                            const listing_link = listing.href
+                            const sqft = listing.description.sqft
+                            const listing_date = listing.list_date
+                            const listing_price = listing.list_price
+                            const num_bed = listing.description.beds
+                            const num_bath = listing.description.baths
+                            const description = listing.description.text
+
+                            let tagsHTML = ''
+                            if (listing.tags && listing.tags.length > 0) {
+                                tagsHTML += '<div class="tag-container" style="display: flex; flex-wrap: wrap; gap: 5px;">'
+                                listing.tags.forEach((tag, index) => {
+                                    const colors = ['#9ca9b6', '#939391', '#c5b8a5', '#9d91a7']
+                                    const tagColor = colors[index % colors.length]
+                                    tagsHTML += `<button class="tag-button" style="background-color: ${tagColor}; color: white; padding: 5px 10px; border: none; border-radius: 5px; cursor: pointer; box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);">${tag}</button>`
+                                })
+                                tagsHTML += '</div>'
+                            }
+
+                            var row = table.insertRow()
+                            var cell1 = row.insertCell(0)
+                            cell1.innerHTML = `
+                                <div style="display: flex;">
+                                    <div style="flex: 1;">
+                                        <strong><span style="font-size: 18px"><a href="${listing_link}" target="_blank">${addressLine}</a></span></strong><br>
+                                        <span style="color: #afb99e;"><strong>Square Feet:</strong></span> ${sqft}<br>
+                                        <span style="color: #afb99e;"><strong>Listing Date:</strong></span> ${listing_date}<br>
+                                        <span style="color: #afb99e;"><strong>Listing Price:</strong></span> $${listing_price}<br>
+                                        <span style="color: #afb99e;"><strong>Number of Bedrooms:</strong></span> ${num_bed}<br>
+                                        <span style="color: #afb99e;"><strong>Number of Bathrooms:</strong></span> ${num_bath}<br><br>
+                                        ${description !== null ? description : 'No description available'}<br>
+                                        ${tagsHTML}
+                                    </div>
+                                </div>
+                            `
+                            cell1.style.fontSize = "15px"
+                            cell1.style.textAlign = "left"
+
+                            if (listing.primary_photo) {
+                                let photoUrl = listing.primary_photo.href
+                                let cell2 = row.insertCell(1)
+                                cell2.innerHTML = `
+                                    <div style="flex-shrink":0; margin-left: 20px;">
+                                        <img src="${photoUrl}" style="max-width: 500px; max-height: 250px;" alt="">
+                                    </div>
+                        `
+                            } else {
+                                let photoUrl = "https://via.placeholder.com/150"
+                                let cell2 = row.insertCell(1)
+                                cell2.innerHTML = `<img width="150" height="150" src="${photoUrl}"/>`
+                            }
+
+                        })
+                    })
+                })
+
+
+                sortBy = 'relevance'
+            } catch (err) {
+                console.error(err)
+            }
+        })
+    }
+    RentEstimator()
+
+
+</script>
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBkxwM5Fi37UmW7RMfqzVTj-FMLNcfdxXc&libraries=places&callback=initMap">
+    </script>
