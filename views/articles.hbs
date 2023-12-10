@@ -1,0 +1,21 @@
+<div style="display: flex; align-items: center;">
+    <img src="https://gd-hbimg.huaban.com/826e2ddd34971b05c3b9df57ae481e277a061b721310-o6FlAZ_fw1200webp" alt="Image"
+        style="height: 3em; margin-right: 10px; margin-bottom: -10px">
+    <h3><strong>Latest News</strong></h3>
+</div>
+<h5 style="color: #738167; margin-top: -5px"><strong>Don't know where to start? Check out these articles!</strong></h5>
+<br>
+<section>
+    {{#each articles}}
+    <div class="article" style="display: flex; align-items: center; margin-bottom: 20px;">
+        <div style="flex: 1;">
+            <h4><a href="{{this.url}}" target="_blank">{{this.title}}</a></h4>
+            <h6 style="color: #a29582"><strong>{{this.author}}</strong></h6>
+            <p>{{this.description}}</p>
+        </div>
+        <img src="{{this.image}}" style="max-width: 250px; height: auto; margin-left: 20px;">
+    </div>
+    <hr style="margin-bottom: 20px">
+    <br>
+    {{/each}}
+</section>
