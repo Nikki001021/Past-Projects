@@ -8,8 +8,8 @@ Car crash detection is a critical application of AI-driven traffic surveillance,
 3. Yuchen Li, nikkili@bu.edu
 
 ### Datasets:
-1. **Detection of Traffic Anomaly (DoTA):** includes 4,677 videos with annotated anomalies (we will only focus on car-crashed related footages), please see the link for more details: https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly/tree/master
-2. **Normal Driving Footages (Part of BDD100K dataset):** Provides normal traffic videos for comparison to get a more comprehensive insight on judging potential car crashes, please see the link for more details: https://www.kaggle.com/datasets/robikscube/driving-video-with-object-tracking/data
+1. **[Detection of Traffic Anomaly (DoTA)](https://github.com/MoonBlvd/Detection-of-Traffic-Anomaly/tree/master):** includes 4,677 videos with annotated anomalies (we will only focus on car-crashed related footages)
+2. **[Normal Driving Footages (Part of BDD100K dataset)](https://www.kaggle.com/datasets/robikscube/driving-video-with-object-tracking/data):** Provides normal driving videos for comparison to get a more comprehensive insight on judging potential car crashes
 
 ### Navigation:
 For **data preprocessing**, see the **"Preproess"** folder, detailed preprocessing steps are listed in "README" under "Preprocess" folder<br>
