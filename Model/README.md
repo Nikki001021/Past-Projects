@@ -22,7 +22,7 @@ Inside ```ResNet_LSTM_Model2```, there is already built-in code for calling ```p
 ```
 
 ### 2. Model Architecture
-This project uses ```ResNet18``` with ```BiLSTM``` for detection. Here is a walkthrough for the model architecture:
+This project uses ```ResNet18``` with ```BiLSTM``` for detection. Here is a walkthrough for the model architecture:<br><br>
 **1. Image Preprocessing:**
 - Each image is resized to ```(224, 224)```
 - Apply aggressive augmentations: random cropping, flipping, perspective distortion, color jittering, Gaussian blur, AutoAugment, and random erasing
