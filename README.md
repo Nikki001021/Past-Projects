@@ -13,5 +13,32 @@ Car crash detection is a critical application of AI-driven traffic surveillance,
 3. **[Car Crash Dataset](https://github.com/Cogito2012/CarCrashDataset):** Provides 3000 normal driving videos and 1500 crash accident videos as test dataset for model evaluation
 
 ### Navigation:
-For **data preprocessing**, see the **"Preproess"** folder, detailed preprocessing steps are listed in "README" under "Preprocess" folder<br>
-For all the **metadata** files, see the json files with "metadata" under **"dataset"** folder
+1. For **Data Preprocessing**, see the **"Preproess"** folder, detailed preprocessing steps are listed in ```README.md``` under **"Preprocess"** folder
+	- For all the **metadata** files, see the json files with "metadata" under **"dataset"** folder
+2. For **Model Training**, see the **"Model"** folder, detailed training steps are listed in ```README.md``` under **"Model"** folder
+3. For **Model Evaluation**, see the **"Evaluation"** folder, detailed evaluation steps are listed in ```README.md``` under **"Evaluation"** folder
+
+### Dataset Source Citation:
+**1. DoTA**
+```
+@article{yao2022dota,
+  title={DoTA: unsupervised detection of traffic anomaly in driving videos},
+  author={Yao, Yu and Wang, Xizi and Xu, Mingze and Pu, Zelin and Wang, Yuchen and Atkins, Ella and Crandall, David},
+  journal={IEEE transactions on pattern analysis and machine intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
+**2. Normal Driving Footages**<br>
+Rob Mulla, ["Driving Video with Object Tracking"](https://www.kaggle.com/datasets/robikscube/driving-video-with-object-tracking/data), Kaggle, 2020.
+
+**3. Car Crash Dataset**
+```
+@InProceedings{BaoMM2020,
+    author = {Bao, Wentao and Yu, Qi and Kong, Yu},
+    title  = {Uncertainty-based Traffic Accident Anticipation with Spatio-Temporal Relational Learning},
+    booktitle = {ACM Multimedia Conference},
+    month  = {May},
+    year   = {2020}
+}
+```
