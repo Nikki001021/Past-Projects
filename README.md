@@ -17,7 +17,7 @@ Car crash detection is a critical application of AI-driven traffic surveillance,
 	- For all the **metadata** files, see the json files with "metadata" under **"dataset"** folder
 2. For **Model Training**, see the **"Model"** folder, detailed training steps are listed in ```README.md``` under **"Model"** folder
 3. For **Model Evaluation**, see the **"Evaluation"** folder, detailed evaluation steps are listed in ```README.md``` under **"Evaluation"** folder
-4. You could watch our **presentation** [here](https://drive.google.com/file/d/1H4-7XyyUP9RbkRk2Hp-7fCIKP9nou4bw/view?usp=sharing) or read through our **report** here.
+4. You could watch our **presentation** [here](https://drive.google.com/file/d/1H4-7XyyUP9RbkRk2Hp-7fCIKP9nou4bw/view?usp=sharing) or read through our **report** [here](https://drive.google.com/file/d/1olQu_LCGZJiBeBB1R5zRQ6jwSRqRrnWI/view?usp=sharing).
 
 ### Dataset Source Citation:
 **1. DoTA**
