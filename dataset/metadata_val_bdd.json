@@ -1,0 +1,2702 @@
+{
+  "00fba75b-5d18da26": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "012a9c41-edad898c": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "01d0c813-f2819e84": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02995fe4-1e0fc944": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "004071a4-a45d905f": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "007da0eb-e1f588e8": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "011d593a-89158b9d": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01eb2be1-ca02b2ac": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "009deddd-c8963379": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01460ec4-41af799a": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "019cd27a-9ad90d04": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "019b6143-8c8d343e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0062298d-e6abad2f": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "020cc8f8-8b679d0b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "008edf63-51af8ab6": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02188a44-65ad27f3": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01d87368-2ac1d81d": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00c29c52-f9524f1e": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009b0eb2-bbef939f": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "01638325-901cd4f5": {
+    "video_start": 0,
+    "video_end": 202,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 203,
+    "subset": "val"
+  },
+  "01fbf6af-9d47ed83": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00e42886-bd5ed543": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "025bff9b-cd0b388b": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00313a01-62156032": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "025ecc28-3d894af1": {
+    "video_start": 0,
+    "video_end": 201,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 202,
+    "subset": "val"
+  },
+  "002d290d-01969e7d": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c3e892-c0641182": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01f7bbd1-6fbaad8c": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00313a01-b53a2998": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00054602-3bf57337": {
+    "video_start": 0,
+    "video_end": 406,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 407,
+    "subset": "val"
+  },
+  "02a0f142-c9c4b7d5": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "01ff9753-487eb0bd": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0096bcca-a25719cb": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "018aca44-9a616a49": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01a4deab-0f7d41cc": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "000d35d3-41990aa4": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "00eb41b2-6bbff2ca": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0245bba2-838a71a5": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0096bcca-095d2c02": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00a0f008-3c67908e": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "005c4fd3-cb4d6287": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0135988f-6e5c56c0": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0166faa5-5fbc53c5": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "012e9465-1031243b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "024817df-f92d7680": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "02a26ce5-597cae3f": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01d933a6-c1f361fb": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "025022b5-797676cf": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00d77344-9fe25620": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01ff2210-403e7e0f": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "0081e3ea-3f7b0282": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01ea515d-3dc73413": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "0292ca07-bac7cf32": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02250ece-2d6bfd5b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "025701a5-b1eb8111": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0129ed1d-41528bb8": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01ab0f6d-b74b888d": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "016c5aac-f5e49c84": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02522f64-aec09204": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00721168-56efa5c2": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0183d6f9-806f64bd": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01460ec4-a12a1552": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "01d250e0-8352d1f1": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00618cec-a7f7e470": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "005ff190-5be4cdfa": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01746216-8d8edd01": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00313a01-725ddf3a": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "014e76d7-afb481a3": {
+    "video_start": 0,
+    "video_end": 380,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 381,
+    "subset": "val"
+  },
+  "02097021-295d2161": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "003baca5-70c87fc6": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "028c7891-a4644551": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0256f56a-35c8e2fe": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "009bd04d-42445981": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "002cd38e-ebe888e1": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009bd04d-0f1f9967": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00d1bafa-6701fcd9": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0102614a-75ae85cf": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02344f0c-d5d916ff": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00091078-cedbfea7": {
+    "video_start": 0,
+    "video_end": 521,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 522,
+    "subset": "val"
+  },
+  "014f813e-ea18f067": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "00de601c-858a8a8d": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01a78dfd-ba2fca5e": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0000f77c-6257be58": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "0171a405-03235e12": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "017b02cb-8a659756": {
+    "video_start": 0,
+    "video_end": 202,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 203,
+    "subset": "val"
+  },
+  "0070bc56-8d8cfd82": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "022bf1ed-b3675f44": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "010526ea-98dc9803": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02494b7b-079febf8": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "02a46296-9d712df2": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "026d68d3-bb2704f1": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "022b6d4c-b3fc30be": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02b7b9ee-60bfd818": {
+    "video_start": 0,
+    "video_end": 201,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 202,
+    "subset": "val"
+  },
+  "00cef86b-d8d105b9": {
+    "video_start": 0,
+    "video_end": 385,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 386,
+    "subset": "val"
+  },
+  "01c2e726-414a03ea": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0048f391-2c5344eb": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "015f23ad-5049df48": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "007aeb45-96ce245e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "021f503c-012d941f": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "015bbc07-91083530": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "028b5d16-45f7e11a": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02006c28-dbd5e8e9": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0204aad7-8ad8ba92": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "0001542f-5ce3cf52": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0279c7c7-022be97f": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "0070bc56-401304be": {
+    "video_start": 0,
+    "video_end": 202,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 203,
+    "subset": "val"
+  },
+  "012c8623-1782dc8b": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "028b5d16-af6a6275": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02b7b9ee-4cd88e31": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "029e1042-2639a5f8": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c88f41-3ddab5b5": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0226f407-513227af": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02701fba-809c39f3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0218c5b0-145d6bbf": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02927def-14c4c3cb": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "01e0535c-fe710ab9": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00516b75-7ac91661": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0204aad7-4ebd19fa": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02480aee-cb6bb3a5": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00067cfb-e535423e": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "018988f9-0225fc55": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00a2e3ca-5c856cde": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01705c36-8993db9f": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "014324ec-d139c447": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "029ffd50-dc944dba": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "010b0600-47a9e3e0": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "010d75f8-3eb08dc7": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "002d290d-fa2a8964": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01a6daec-e8c923a8": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "029e1042-66968a89": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01df5158-81b61006": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02346f91-87969c22": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "029e1042-e795c758": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "01c3e19a-fbacb266": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "006dd004-34630e8d": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00495359-1d04dd8a": {
+    "video_start": 0,
+    "video_end": 104,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 105,
+    "subset": "val"
+  },
+  "00268999-9f6d5823": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "021c0ade-877a81e9": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "003e23ee-67d25f19": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0153f03b-8fbdc1ad": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "015fe6c9-48a58255": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0065fe83-c80cf6c3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0263b4e2-dcbc1fb8": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02864c06-90dae1dd": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0114bdd0-f317da84": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01a01af7-76f6a476": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "012a9c41-692c9f06": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01a0fe55-298688cb": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02162021-ff5ac522": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00ad8a92-c4851839": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "017b02cb-477b66fa": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02a46296-f95ec53f": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02133057-fc70cc0e": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00a04f65-af2ab984": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02b3f1b2-eb3e84c6": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00afa5b2-c14a542f": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "00699de6-58847872": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "013aba02-3fbd03ff": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01c9d396-c1de70b1": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01118704-e91b1b1c": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "015b88d3-888cc0b1": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01d0c813-93e6e4f8": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "008dd3b9-4b6790d5": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00d84b1d-21e6fe01": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02006c28-c2c5e796": {
+    "video_start": 0,
+    "video_end": 396,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 397,
+    "subset": "val"
+  },
+  "019666dd-b8236d7f": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "008db5fb-223715d5": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "002f8552-0cdd55c6": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "00b04b30-2e874876": {
+    "video_start": 0,
+    "video_end": 203,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 204,
+    "subset": "val"
+  },
+  "011a2aa0-677a45ae": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00d8944b-e157478b": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "024512c0-bf32188b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02ac138c-6bc72d56": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "024b275b-bbfdf5ee": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "0096bcca-81ffedfc": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "002b562f-e0ac84fe": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "022aca7c-9e9a3905": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0226f407-491ed238": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0255fedd-aa5cb7c8": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00de601c-cfa2404b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01e5bbac-330a3c37": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009215e2-8500bd0b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "018f06cd-834da3b3": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01e87cf1-25268f60": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c71072-718028b8": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "00b1dfed-a89dbe2b": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "010a3063-55852e55": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "013ae324-e7ef50a2": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0071d9c5-0f52d539": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "02b4d710-c34ba68e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02086f50-c1e5d802": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "01746216-f3e9e455": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00779058-517a4591": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0279c430-962e3702": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01aeb4e2-7d6000f2": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00322f82-286ab9b3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01cde341-fe529a98": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01e05a91-2c9e154d": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02a26ce5-42f8fd75": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "00b04b12-a7d7eb85": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01d87368-a0c0bc84": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0089bc2f-5f2d57d5": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00fbb190-8834f55b": {
+    "video_start": 0,
+    "video_end": 254,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 255,
+    "subset": "val"
+  },
+  "0104f3cf-0dbe2960": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00714cd3-48d6b290": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01041028-15488454": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02521568-dd1da95c": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c5cd64-278f8b91": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0135988f-d72fb455": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "029ce269-29702a45": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02995fe4-e81dc93c": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0045e757-088840fc": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "026501c2-dfd80f2d": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02a79112-1c04010d": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "025ed087-7cb7665c": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0035afff-572b2d4e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00ccf2e8-f8c69860": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "022752db-f5e0179c": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0096bcca-42d2702c": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01d373c7-45710346": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "002685b6-856c17f7": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "00313a01-97de1f42": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01f54fd9-6fd0dab3": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "007eddfc-bcaeb35b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "019cd27a-b3c5617d": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0100a197-bdbf50ca": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0263b4e2-e10a3ab3": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02778d17-efa6d1ee": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01bc8687-63878241": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c3e892-13e4048a": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02506726-83b4a05e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00ce95b0-84be34a3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0185631d-eabb8700": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0035afff-47378fa3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01094b4f-27d47f20": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "005fd7be-d8e0dc65": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "01781c36-25e044bd": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "013ae324-36be6bc2": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02097021-05dcbf23": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0024b742-83709bd4": {
+    "video_start": 0,
+    "video_end": 398,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 399,
+    "subset": "val"
+  },
+  "0245bba2-091b06af": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00adbb3f-7757d4ea": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "01aa2961-e390a466": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00f0dd0f-5e9c9557": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "025b2ded-0f6cbb6b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00ffeef4-75f6b5ec": {
+    "video_start": 0,
+    "video_end": 390,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 391,
+    "subset": "val"
+  },
+  "00423717-0ef3c8dc": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "010a3063-d255402b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "004071a4-049b7b85": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02b1d9ff-845e5ab3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00e81dcc-b1dd9e7b": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02205e0f-20f9ad20": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0090c713-2854b392": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "006fdb67-f4820206": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02a0aa2f-0ba5cdab": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00ed2e85-82bdd22b": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "02ac8427-bd3b76a5": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01ee7c33-667e3aa0": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0070bc56-4c0bb2d5": {
+    "video_start": 0,
+    "video_end": 200,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 201,
+    "subset": "val"
+  },
+  "0245bba2-066e715d": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "021cb34f-455d80a0": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0004974f-05e1c285": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "026b9a11-f819c1b9": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0245bba2-d34755ef": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00c17a92-d4803287": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01a4deab-40dbb1f3": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0134102e-d43de666": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009215e2-d6d2d61b": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0128cdde-ba330f54": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "02b0443e-25d7d385": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01f2af00-195831fa": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01ce75e2-df9688eb": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01ff4acd-b2311e18": {
+    "video_start": 0,
+    "video_end": 399,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 400,
+    "subset": "val"
+  },
+  "0081e27b-17bf4a9e": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "019539db-cc36496e": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "000f8d37-d4c09a0f": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01a8723d-89a1953a": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "015f02db-2f4f2353": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "0096bcca-fc7d6d3c": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009215e2-62d79d70": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "004071a4-4e8a363a": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "00131ea7-624f538d": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "001bad4e-2fa8f3b6": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "012979cd-e13274a9": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01a4deab-6b02cc77": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "003baca5-ad660439": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "017e2d3b-acac71ff": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "027e72be-8b4f222c": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0210896b-e54d48dc": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "01dc8414-3e5938b1": {
+    "video_start": 0,
+    "video_end": 403,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 404,
+    "subset": "val"
+  },
+  "0045e757-66a334b5": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "020fb8c8-9a194dc3": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "006676e5-0a512e75": {
+    "video_start": 0,
+    "video_end": 402,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 403,
+    "subset": "val"
+  },
+  "0092e44c-3b3dee4b": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "009e7a6a-3d755b8b": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "00beeb02-50440dcd": {
+    "video_start": 0,
+    "video_end": 401,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 402,
+    "subset": "val"
+  },
+  "02124b78-5bae69c1": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "000f157f-37797ff9": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "0049e5b8-725e21a0": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  },
+  "01c6a5ce-7dba0d93": {
+    "video_start": 0,
+    "video_end": 400,
+    "anomaly_start": null,
+    "anomaly_end": null,
+    "anomaly_class": "normal",
+    "num_frames": 401,
+    "subset": "val"
+  }
+}
