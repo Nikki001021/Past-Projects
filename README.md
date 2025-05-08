@@ -3,12 +3,14 @@
 ## 1. Web Application Project – *Search Before Move*
 - Developed a web app to assist users in selecting desirable rental listings by analyzing location, rental prices, and apartment construction.
 - 🎥 [Watch Demo Video](https://drive.google.com/file/d/1OQLlO7F7nGR23g-Rr5DzrSOb3-uoNcdY/view?usp=sharing)
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/search-before-move)
 
 ---
 
 ## 2. Airbnb Pricing Prediction Model
 - Built a machine learning model to accurately predict Airbnb listing prices.
 - Aims to help renters and hosts make informed pricing decisions.
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/airbnb-pricing-prediction)
 
 ---
 
@@ -16,6 +18,7 @@
 - Analyzed the impact of remodeling and zoning conversions on rental unit availability in Boston.
 - Assessed how higher-income influx affects housing and demographics.
 - Coded and visualized data trends; presented insights to clients and iterated based on feedback.
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/city-of-boston)
 
 ---
 
@@ -23,6 +26,7 @@
 - Analyzed academic outcomes of student-athletes to support recruitment strategies.
 - Identified patterns based on language proficiency, geography, and sports type.
 - Offered data-driven insights into student-athlete success factors.
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/bu-athletics)
 
 ---
 
@@ -30,6 +34,7 @@
 - Developed a deep learning pipeline using ResNet-18 and BiLSTM to detect car crashes from dashcam video.
 - Trained on DoTA and BDD100K datasets; evaluated on Cogito with an F1-score of 0.795 after threshold tuning.
 - Focused on spatiotemporal modeling for sequence-level crash detection; future work includes optical flow and edge deployment.
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/car-crash-detection)
 
 ---
 
@@ -38,6 +43,7 @@
 - Implemented batch/streaming ingestion via Azure Data Factory, Synapse, and Function Apps using Medallion architecture.
 - Trained and deployed a Spark MLlib Random Forest model with Power BI integration for daily insights.
 - 📽️ [View Presentation](https://drive.google.com/file/d/1x9XrzPRsfegI0rq35ZegNG-mD-DqZvJP/view?usp=sharing)
+- 🔗 [View GitHub Branch](https://github.com/Nikki001021/Past-Projects/tree/stock-volume-prediction)
 
 ---
 
